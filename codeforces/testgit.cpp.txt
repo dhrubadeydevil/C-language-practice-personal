@@ -1,0 +1,4 @@
+hello, this is a testing file for git repository. first time testing, so there might be some errors in git profile. need to work harder and smarter.
+hello, hello,
+
+this is for the second time I am testing whether this file will automatically be uploaded to github
